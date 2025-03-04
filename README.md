@@ -25,7 +25,7 @@ This is a personal portfolio website for **Aryan Bisht**, showcasing skills, pro
 
 ## 📸 Screenshots
 
-https://github.com/Aryanb10/Aryan-s-Website/blob/83331ded30ae6b9e17033b718cdff5c9537b2f6d/Screenshot%20(841).png
+[image alt](https://github.com/Aryanb10/Aryan-s-Website/blob/d413fad6a2d403200f433bdde75b8feb310a7ff9/Screenshot%20(841).png)
 
 ## 📬 Contact
 
