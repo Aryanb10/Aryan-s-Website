@@ -25,13 +25,13 @@ This is a personal portfolio website for **Aryan Bisht**, showcasing skills, pro
 
 ## 📸 Screenshots
 
-*(Add screenshots of your portfolio website here if needed.)*
+Screenshot (841).png
 
 ## 📬 Contact
 
 - **Email**: aryan.b1904@gmail.com
 - **GitHub**: [https://github.com/Aryanb10](https://github.com/Aryanb10) 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/aryan-bisht10/)
+- **LinkedIn**: [https://www.linkedin.com/in/aryan-bisht10/](https://www.linkedin.com/in/aryan-bisht10/)
 
 ## 🛠️ Setup & Usage
 
