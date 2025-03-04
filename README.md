@@ -30,7 +30,7 @@ This is a personal portfolio website for **Aryan Bisht**, showcasing skills, pro
 ## 📬 Contact
 
 - **Email**: aryan.b1904@gmail.com
-- **GitHub**: [](https://github.com/Aryanb10) 
+- **GitHub**: [https://github.com/Aryanb10](https://github.com/Aryanb10) 
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/aryan-bisht10/)
 
 ## 🛠️ Setup & Usage
@@ -38,5 +38,3 @@ This is a personal portfolio website for **Aryan Bisht**, showcasing skills, pro
 1. Clone this repository:
    ```bash
    git clone https://github.com/aryanb10/portfolio-website.git
-
-## live demo
